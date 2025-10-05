@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 
-const sections = ["home", "about", "services", "contact"];
+const sections = ["home", "about", "education", "skill"];
 
 export default function Navbar() {
   const [active, setActive] = useState("home");
@@ -18,7 +18,7 @@ const handleScroll = (id) => {
 };
 
 
-  // เช็คว่าตอนเลื่อนอยู่ตรง section ไหน
+
   useEffect(() => {
     const handleScrollSpy = () => {
       const scrollY = window.scrollY;
@@ -38,7 +38,7 @@ const handleScroll = (id) => {
   }, []);
 
   return (
-    <nav className="fixed top-0 left-0 w-full bg-white shadow-md z-50">
+    <nav className="fixed top-0 left-0 w-full dark:bg-gray-900 shadow-md z-50">
       <ul className="fixed gap-8 p-4">
         <h1 className="text-2xl font-bold">&lt;/&gt; My Resume</h1>
       </ul>
@@ -48,14 +48,14 @@ const handleScroll = (id) => {
             <button
               onClick={() => handleScroll(sec)}
               className={`relative text-lg font-medium transition-colors ${
-                active === sec ? "text-blue-600" : "text-gray-700"
+                active === sec ? "text-amber-400" : "text-orange-600"
               }`}
             >
               {sec.charAt(0).toUpperCase() + sec.slice(1)}
               {active === sec && (
                 <motion.div
                   layoutId="underline"
-                  className="absolute left-0 -bottom-1 h-[2px] w-full bg-blue-600 rounded-full"
+                  className="absolute left-0 -bottom-1 h-[2px] w-full bg-amber-600 rounded-full"
                   transition={{ type: "spring", stiffness: 300, damping: 25 }}
                 />
               )}

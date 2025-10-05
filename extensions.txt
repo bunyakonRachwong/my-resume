@@ -1,0 +1,8 @@
+beardedbear.beardedtheme
+bradlc.vscode-tailwindcss
+christian-kohler.path-intellisense
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+pkief.material-icon-theme

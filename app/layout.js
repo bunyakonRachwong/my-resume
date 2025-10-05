@@ -2,9 +2,9 @@ import Image from "next/image";
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import About from '../components/about';
-import Services from '../components/Services';
-import Contact from '../components/Contact';
-import GithubIcon from '../components/icon';
+import SkillPage from '../components/skill';
+import EducationPage from '../components/Education';
+
 
 import "./globals.css";
 
