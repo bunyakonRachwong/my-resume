@@ -1,41 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💼 เว็บเรซูเม่ส่วนตัว  
 
-## Getting Started
+สวัสดีครับ 🙋‍♂️ นี่คือ **เว็บเรซูเม่ส่วนตัว** ที่สร้างขึ้นเพื่อแนะนำตัวเองในฐานะนักพัฒนา และใช้เป็นพอร์ตโฟลิโอออนไลน์ เพื่อให้ทุกคนสามารถรู้จักผลงานและทักษะของผมได้มากขึ้น  
 
-First, run the development server:
+## ✨ เกี่ยวกับฉัน
+- 👨‍💻 สนใจการพัฒนาเว็บไซต์และเทคโนโลยีใหม่ ๆ  
+- 🎓 จบการศึกษาด้านคอมพิวเตอร์/ไอที  
+- 🚀 ชอบเรียนรู้สิ่งใหม่ ๆ และพัฒนาทักษะอย่างต่อเนื่อง  
+- 💡 มุ่งเน้นการเขียนโค้ดที่สะอาด อ่านง่าย และนำไปใช้ต่อได้จริง  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ ทักษะที่ถนัด
+- **Frontend**: Next.js, React, Tailwind CSS, Framer Motion  
+- **Backend**: Node.js, Express  
+- **Tools**: Git, GitHub, Vercel  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📂 สิ่งที่อยู่ในเว็บนี้
+- 👋 แนะนำตัว  
+- 🎓 ประวัติการศึกษา  
+- 💻 ทักษะ  
+- 📂 โปรเจกต์ที่ผ่านมา  
+- 📞 ช่องทางการติดต่อ  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🌐 ตัวอย่างการใช้งาน
+🔗 [Demo เว็บไซต์](https://your-resume-demo.vercel.app/)  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📬 ติดต่อผมได้ที่
+- 📧 Email: buny1299@email.com  
+- 💼 LinkedIn: [linkedin.com/in/bunyakonRachwong](https://linkedin.com/in/bunyakonRachwong)  
+- 🐙 GitHub: [github.com/bunyakonRachwong](https://github.com/bunyakonRachwong)  
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-"# resume" 
-# resume
-# resume
-# resume
-# resume
+# my-resume
