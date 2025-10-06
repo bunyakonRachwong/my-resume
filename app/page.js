@@ -65,7 +65,7 @@ export default function HomePage() {
                 <FaGithub className="w-8 h-8 text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white" />
               </a>
               <a
-                href="www.linkedin.com/in/bunyakon-t-8b9058386"
+                href="https://www.linkedin.com/in/bunyakon-t-8b9058386/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:scale-110 transition"
