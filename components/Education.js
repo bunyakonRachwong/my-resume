@@ -44,7 +44,7 @@ export default function EducationPage() {
             </div>
             <div className="timeline-start mb-10 md:text-end">
               <time className="font-mono italic text-sm text-gray-600 dark:text-gray-400">
-                2021
+                2017
               </time>
               <div className="text-xl font-bold text-gray-800 dark:text-gray-200">
                 สําเร็จการศึกษาระดับชั้นประถมศึกษา
@@ -64,7 +64,7 @@ export default function EducationPage() {
             </div>
             <div className="timeline-end md:mb-10">
               <time className="font-mono italic text-sm text-gray-600 dark:text-gray-400">
-                2021
+                2020
               </time>
               <div className="text-xl font-bold text-gray-800 dark:text-gray-200">
                 สําเร็จการศึกษาระดับชั้นมัธยมศึกษาตอนต้น
@@ -84,7 +84,7 @@ export default function EducationPage() {
             </div>
             <div className="timeline-start mb-10 md:text-end">
               <time className="font-mono italic text-sm text-gray-600 dark:text-gray-400">
-                2021
+                2023
               </time>
               <div className="text-xl font-bold text-gray-800 dark:text-gray-200">
                 สําเร็จการศึกษาประกาศนียบัตรวิชาชีพ (ปวช.)
@@ -104,7 +104,7 @@ export default function EducationPage() {
             </div>
             <div className="timeline-end md:mb-10">
               <time className="font-mono italic text-sm text-gray-600 dark:text-gray-400">
-                2021
+                2025
               </time>
               <div className="text-xl font-bold text-gray-800 dark:text-gray-200">
                 สําเร็จการศึกษาประกาศนียบัตรวิชาชีพชั้นสูง (ปวส.)
