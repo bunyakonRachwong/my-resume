@@ -21,11 +21,11 @@
 - 📞 ช่องทางการติดต่อ  
 
 ## 🌐 ตัวอย่างการใช้งาน
-🔗 [Demo เว็บไซต์](https://your-resume-demo.vercel.app/)  
+🔗 [Demo เว็บไซต์](https://resume-ltag.vercel.app/)  
 
 ## 📬 ติดต่อผมได้ที่
 - 📧 Email: buny1299@email.com  
-- 💼 LinkedIn: [linkedin.com/in/bunyakonRachwong](https://linkedin.com/in/bunyakonRachwong)  
+- 💼 LinkedIn: [linkedin.com/in/bunyakonRachwong](www.linkedin.com/in/bunyakon-t-8b9058386)  
 - 🐙 GitHub: [github.com/bunyakonRachwong](https://github.com/bunyakonRachwong)  
 
 ---
